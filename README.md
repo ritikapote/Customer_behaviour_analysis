@@ -91,7 +91,7 @@ Developed an interactive dashboard to summarize customer shopping behavior.
 The analysis examines the following business questions:
 
 **1. Which product categories generate the highest revenue and sales?**
-Clothing is the top category on both measures, with about 1,700 sales and roughly $100K in revenue (around 44% of the total). Accessories ranks second (about 1,200 sales, $75K), followed by Footwear and Outerwear, which together contribute less than a quarter of revenue.
+Clothing is the top category on both measures, with about 1,700 sales and $100K in revenue (around 44% of the total). Accessories ranks second (about 1,200 sales, $75K), followed by Footwear and Outerwear, which together contribute less than a quarter of revenue.
 
 **2. How are customers distributed by subscription status?**
 7.3 % of customers are subscribers and 92.7% are not. 
@@ -100,7 +100,7 @@ Clothing is the top category on both measures, with about 1,700 sales and roughl
 Middle-aged customers generate the highest revenue. Middle-aged customers also have the highest sales. Young adults contribute the least among the four age groups shown.
 
 **4. Which products receive higher average review ratings?**
-Footwear has the highest average rating (3.81/5), while Clothing has the lowest (3.72/5).
+ratings are very similar across categories with Footwear slightly ahead with average rating (3.81/5), while Clothing has the lowest (3.72/5).
 
 
 ## 📁 Project Structure
