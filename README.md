@@ -83,8 +83,7 @@ Developed an interactive dashboard to summarize customer shopping behavior.
 - Reviewed the final content for clarity and consistency with the analysis.
 
 ## 📊 Dashboard Preview
-
-<img width="800" alt="Customer Shopping Behavior Dashboard" src="(keep your existing link here)" />
+![Customer Shopping Behavior Dashboard](dashboard.png)
 
 
 ## 💡 Results & Key Insights
