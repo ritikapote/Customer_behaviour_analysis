@@ -84,7 +84,8 @@ Developed an interactive dashboard to summarize customer shopping behavior.
 
 ## 📊 Dashboard Preview
 
-![Customer Shopping Behavior Dashboard](images/dashboard.png)
+<img width="800" alt="Customer Shopping Behavior Dashboard" src="(keep your existing link here)" />
+
 
 ## 💡 Results & Key Insights
 
