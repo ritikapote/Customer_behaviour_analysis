@@ -99,91 +99,34 @@ The analysis examines the following business questions:
 ## 📁 Project Structure
 
 ```text
-customer-shopping-behavior-analysis/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   └── eda_and_data_cleaning.ipynb
-│
-├── sql/
-│   └── analysis_queries.sql
-│
-├── dashboard/
-│   └── powerbi_dashboard.pbix
-│
-├── presentation/
-│   └── project_presentation.pptx
-│
-├── images/
-│   └── dashboard.png
-│
-├── requirements.txt
-└── README.md
-```
+## Project Structure
 
-*The structure above is a suggested layout. Adjust it to match the files actually present in your repository.*
+```text
+Customer_Behaviour_analysis/
+│
+├── Customer_Behaviour_ppt.pptx
+├── README.md
+├── customer_behavior_sql_queries.sql
+├── customer_behaviour_analysis.ipynb
+├── customer_dashboard.pbix
+├── customer_shopping_behavior.csv
+└── dashboard.png
+```
 
 ## ⚙️ How to Run
 
-### Prerequisites
+1. **Clone or download the repository:** Download the project files to your computer.
+2. **Set up Python:** Install the required libraries:
+   ```bash
+   pip install pandas numpy sqlalchemy pymysql
+   ```
+3. **Load the dataset:** Use `customer_shopping_behavior.csv` in the Jupyter Notebook.
+4. **Run Python analysis:** Open `customer_behaviour_analysis.ipynb` in Jupyter Notebook and execute the cells to perform data cleaning and analysis.
+5. **Set up MySQL:** Open MySQL Workbench, create the required database, and configure the MySQL connection in the Python notebook.
+6. **Run SQL queries:** Open `customer_behavior_sql_queries.sql` in MySQL Workbench and execute the queries to analyze customer shopping behavior.
+7. **View the dashboard:** Open `customer_dashboard.pbix` in Power BI Desktop to explore the interactive dashboard.
+8. **View the presentation:** Open `Customer_Behaviour_ppt.pptx` to see the project presentation.
 
-- Python 3.x
-- Jupyter Notebook
-- MySQL Server and MySQL Workbench
-- Power BI Desktop
-
-### Step 1: Clone the Repository
-
-```bash
-git clone <your-repository-url>
-cd customer-shopping-behavior-analysis
-```
-
-### Step 2: Install Python Dependencies
-
-If your repository contains a `requirements.txt` file:
-
-```bash
-pip install -r requirements.txt
-```
-
-Otherwise, install the core libraries used by your notebook:
-
-```bash
-pip install pandas numpy sqlalchemy mysql-connector-python jupyter
-```
-
-Install additional libraries only if your notebook uses them.
-
-### Step 3: Run the Python Notebook
-
-```bash
-jupyter notebook
-```
-
-Open the notebook in the `notebooks/` directory and execute the cells in order. Update the dataset path and database connection settings if required.
-
-### Step 4: Run the SQL Queries
-
-1. Start MySQL Server.
-2. Open MySQL Workbench.
-3. Select the project database.
-4. Ensure the dataset has been loaded into the required table.
-5. Open and execute the SQL queries in the `sql/` directory.
-
-### Step 5: Open the Power BI Dashboard
-
-1. Open the `.pbix` file in Power BI Desktop.
-2. Configure the data source connection if necessary.
-3. Refresh the data.
-4. Explore the dashboard using its charts and slicers.
-
-### Step 6: Review the Report & Presentation
-
-Open the project report and PowerPoint presentation to review the methodology, findings, and recommendations.
 
 ## 🚀 Conclusion
 
@@ -195,7 +138,7 @@ It showcases the use of Python, MySQL, and Power BI to transform customer shoppi
 
 **[Ritika Pote]**
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+- LinkedIn: [www.linkedin.com/in/ritikapote)
 
 ---
 
