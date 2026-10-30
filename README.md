@@ -136,9 +136,9 @@ It showcases the use of Python, MySQL, and Power BI to transform customer shoppi
 
 ## 👩‍💻 Author
 
-**[Ritika Pote]**
+**Ritika Pote**
 
-- LinkedIn: [www.linkedin.com/in/ritikapote)
+- LinkedIn: [linkedin.com/in/ritikapote](https://www.linkedin.com/in/ritikapote)
 
 ---
 
