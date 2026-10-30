@@ -99,9 +99,6 @@ The analysis examines the following business questions:
 ## 📁 Project Structure
 
 ```text
-## Project Structure
-
-```text
 Customer_Behaviour_analysis/
 │
 ├── Customer_Behaviour_ppt.pptx
